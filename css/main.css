@@ -1,0 +1,36 @@
+body {
+    font-family: 'Rubik', serif;
+}
+
+.card {
+    margin: auto
+}
+
+.menu-header {
+    font-weight: bold;
+    margin-bottom:0px;
+    margin-top:24px;
+}
+
+.group-menu ul{
+    list-style: none
+}
+
+li {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+li p{
+    margin: 0;
+    padding: 0;
+}
+
+li .menu-label {
+    display: inline;
+}
+
+li .menu-price {
+    display: inline;
+    float: right;
+}
